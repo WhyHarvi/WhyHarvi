@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 112" width="960" height="112" role="img" aria-label="exit — thanks for stopping by">
+  <defs>
+    <filter id="glowf" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="2.4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="scanf" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="2" fill="#000" opacity=".28"/>
+    </pattern>
+    <radialGradient id="vigf" cx="50%" cy="50%" r="75%">
+      <stop offset="60%" stop-color="#000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000" stop-opacity=".55"/>
+    </radialGradient>
+    <linearGradient id="barf" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3dffa2" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#3dffa2" stop-opacity=".06"/>
+      <stop offset="1" stop-color="#3dffa2" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="screenf"><rect x="2" y="47" width="956" height="63"/></clipPath></defs>
+  
+  <rect x="1" y="1" width="958" height="110" rx="12" fill="#07090d" stroke="#1c2430" stroke-width="2"/>
+  <path d="M1 13a12 12 0 0 1 12-12h934a12 12 0 0 1 12 12v33H1z" fill="#0d1117"/>
+  <line x1="1" y1="46" x2="959" y2="46" stroke="#1c2430" stroke-width="2"/>
+  <circle cx="26" cy="24" r="6.5" fill="#ff5f57"/><circle cx="48" cy="24" r="6.5" fill="#febc2e"/><circle cx="70" cy="24" r="6.5" fill="#28c840"/>
+  <text x="480.0" y="29" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#5b6675">zsh</text>
+  <g clip-path="url(#screenf)"><clipPath id="clipe"><rect x="30" y="69" height="24.0" width="0"><animate attributeName="width" begin="0.50s" dur="2.640s" fill="freeze" calcMode="discrete" values="2.0;11.0;20.0;29.0;38.0;47.0;56.0;65.0;74.0;83.0;92.0;101.0;110.0;119.0;128.0;137.0;146.0;155.0;164.0;173.0;182.0;191.0;200.0" keyTimes="0.0000;0.0435;0.0870;0.1304;0.1739;0.2174;0.2609;0.3043;0.3478;0.3913;0.4348;0.4783;0.5217;0.5652;0.6087;0.6522;0.6957;0.7391;0.7826;0.8261;0.8696;0.9130;0.9565"/></rect></clipPath><text x="32" y="84" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="15" xml:space="preserve" textLength="198.00" lengthAdjust="spacing" clip-path="url(#clipe)" filter="url(#glowf)"><tspan fill="#3dffa2">harvi@whyharvi</tspan><tspan fill="#5b6675">:</tspan><tspan fill="#3dd9ff">~</tspan><tspan fill="#5b6675">$ </tspan><tspan fill="#c9d1d9">exit</tspan></text><clipPath id="clipg"><rect x="250.0" y="69" height="24.0" width="0"><animate attributeName="width" begin="3.54s" dur="1.160s" fill="freeze" calcMode="discrete" values="2.0;11.0;20.0;29.0;38.0;47.0;56.0;65.0;74.0;83.0;92.0;101.0;110.0;119.0;128.0;137.0;146.0;155.0;164.0;173.0;182.0;191.0;200.0;209.0;218.0;227.0;236.0;245.0;254.0;263.0;272.0;281.0;290.0;299.0;308.0;317.0;326.0;335.0;344.0;353.0;362.0;371.0;380.0;389.0;398.0;407.0;416.0;425.0;434.0;443.0;452.0;461.0;470.0;479.0;488.0;497.0;506.0;515.0;524.0" keyTimes="0.0000;0.0169;0.0339;0.0508;0.0678;0.0847;0.1017;0.1186;0.1356;0.1525;0.1695;0.1864;0.2034;0.2203;0.2373;0.2542;0.2712;0.2881;0.3051;0.3220;0.3390;0.3559;0.3729;0.3898;0.4068;0.4237;0.4407;0.4576;0.4746;0.4915;0.5085;0.5254;0.5424;0.5593;0.5763;0.5932;0.6102;0.6271;0.6441;0.6610;0.6780;0.6949;0.7119;0.7288;0.7458;0.7627;0.7797;0.7966;0.8136;0.8305;0.8475;0.8644;0.8814;0.8983;0.9153;0.9322;0.9492;0.9661;0.9831"/></rect></clipPath><text x="252.0" y="84" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="15" xml:space="preserve" textLength="522.00" lengthAdjust="spacing" clip-path="url(#clipg)"><tspan fill="#5b6675">// logout · thanks for stopping by — let's build something</tspan></text><rect x="252.0" y="71.7" width="9.00" height="15.75" fill="#3dffa2" opacity="0" filter="url(#glowf)"><animate attributeName="x" begin="3.54s" dur="1.160s" fill="freeze" calcMode="discrete" values="252.00;261.00;270.00;279.00;288.00;297.00;306.00;315.00;324.00;333.00;342.00;351.00;360.00;369.00;378.00;387.00;396.00;405.00;414.00;423.00;432.00;441.00;450.00;459.00;468.00;477.00;486.00;495.00;504.00;513.00;522.00;531.00;540.00;549.00;558.00;567.00;576.00;585.00;594.00;603.00;612.00;621.00;630.00;639.00;648.00;657.00;666.00;675.00;684.00;693.00;702.00;711.00;720.00;729.00;738.00;747.00;756.00;765.00;774.00" keyTimes="0.0000;0.0169;0.0339;0.0508;0.0678;0.0847;0.1017;0.1186;0.1356;0.1525;0.1695;0.1864;0.2034;0.2203;0.2373;0.2542;0.2712;0.2881;0.3051;0.3220;0.3390;0.3559;0.3729;0.3898;0.4068;0.4237;0.4407;0.4576;0.4746;0.4915;0.5085;0.5254;0.5424;0.5593;0.5763;0.5932;0.6102;0.6271;0.6441;0.6610;0.6780;0.6949;0.7119;0.7288;0.7458;0.7627;0.7797;0.7966;0.8136;0.8305;0.8475;0.8644;0.8814;0.8983;0.9153;0.9322;0.9492;0.9661;0.9831"/><set attributeName="opacity" to="1" begin="3.54s"/><animate attributeName="fill-opacity" values="1;0" dur="1.05s" calcMode="discrete" begin="4.70s" repeatCount="indefinite"/></rect></g>
+  
+  <g clip-path="url(#screenf)" pointer-events="none">
+    <rect x="0" y="0" width="960" height="112" fill="url(#scanf)"/>
+    <rect x="0" y="-120" width="960" height="120" fill="url(#barf)">
+      <animate attributeName="y" values="-120;112" dur="7s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="0" y="0" width="960" height="112" fill="url(#vigf)"/>
+  </g>
+</svg>
