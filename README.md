@@ -32,11 +32,7 @@
 
 <img src="https://raw.githubusercontent.com/WhyHarvi/WhyHarvi/output/stats.svg" alt="gh stats: contributions, streaks, weekly activity and top languages" width="100%"/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WhyHarvi/WhyHarvi/output/snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WhyHarvi/WhyHarvi/output/snake-light.svg"/>
-  <img src="https://raw.githubusercontent.com/WhyHarvi/WhyHarvi/output/snake-dark.svg" alt="snake eating my contribution graph" width="100%"/>
-</picture>
+<img src="https://raw.githubusercontent.com/WhyHarvi/WhyHarvi/output/snake.svg" alt="a game of snake on my contribution graph: it grows as it eats my work, then bites its own tail" width="100%"/>
 
 <div align="center">
 <img src="assets/footer.svg" alt="harvi@whyharvi:~$ exit — thanks for stopping by" width="100%"/>
